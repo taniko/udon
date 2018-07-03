@@ -1,0 +1,4 @@
+/vendor/
+.idea/
+tweets.csv
+corpus.json

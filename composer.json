@@ -1,0 +1,16 @@
+{
+    "name": "taniko/udon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuya Aratani",
+            "email": "hrgruri@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Taniko\\Udon\\":"src"
+        }
+    },
+    "require": {}
+}
